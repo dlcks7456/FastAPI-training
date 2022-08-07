@@ -1,0 +1,1 @@
+{"id":"4af0b04f-e9a2-483f-b7c1-1a74a021be56","space":28054,"runtime":"python3.9","name":"FastAPI-training","path":"blbkmz","project":"c07of6l0","account":"144798365827","region":"ap-southeast-1","deps":["fastapi","uvicorn","sqlalchemy","passlib","bcrypt","python-jose","python-multipart"],"envs":null,"public":true,"log_level":"off","cron":""}
